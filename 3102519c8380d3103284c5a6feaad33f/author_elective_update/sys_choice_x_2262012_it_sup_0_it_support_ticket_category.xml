@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="category" table="x_2262012_it_sup_0_it_support_ticket" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <name>x_2262012_it_sup_0_it_support_ticket</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-16 10:58:31</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>category</sys_name>
+            <sys_package display_value="IT Support Ticket" source="x_2262012_it_sup_0">3102519c8380d3103284c5a6feaad33f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IT Support Ticket">3102519c8380d3103284c5a6feaad33f</sys_scope>
+            <sys_update_name>sys_choice_x_2262012_it_sup_0_it_support_ticket_category</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-16 10:58:31</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Sales</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CRM Issue</label>
+            <language>en</language>
+            <name>x_2262012_it_sup_0_it_support_ticket</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-17 04:58:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-17 04:58:54</sys_updated_on>
+            <value>crm_issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Sales</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Customer Data Access</label>
+            <language>en</language>
+            <name>x_2262012_it_sup_0_it_support_ticket</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-17 04:59:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-17 04:59:41</sys_updated_on>
+            <value>customer_data_access</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Finance</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Invoice Issue</label>
+            <language>en</language>
+            <name>x_2262012_it_sup_0_it_support_ticket</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-17 04:58:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-17 04:58:15</sys_updated_on>
+            <value>invoice_issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>IT</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Laptop Issue</label>
+            <language>en</language>
+            <name>x_2262012_it_sup_0_it_support_ticket</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-17 04:56:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-17 04:56:29</sys_updated_on>
+            <value>laptop_issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>HR</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Leave Access</label>
+            <language>en</language>
+            <name>x_2262012_it_sup_0_it_support_ticket</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-17 04:57:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-17 04:57:52</sys_updated_on>
+            <value>leave_access</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>IT</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Network Issue</label>
+            <language>en</language>
+            <name>x_2262012_it_sup_0_it_support_ticket</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-17 04:57:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-17 04:57:13</sys_updated_on>
+            <value>network_issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Finance</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Payment Delay</label>
+            <language>en</language>
+            <name>x_2262012_it_sup_0_it_support_ticket</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-17 04:58:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-17 04:58:33</sys_updated_on>
+            <value>Payment Delay</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>HR</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Payroll Issue</label>
+            <language>en</language>
+            <name>x_2262012_it_sup_0_it_support_ticket</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-17 04:57:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-17 04:57:37</sys_updated_on>
+            <value>payroll_issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Sales</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sales Report Issue</label>
+            <language>en</language>
+            <name>x_2262012_it_sup_0_it_support_ticket</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-17 04:59:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-17 04:59:16</sys_updated_on>
+            <value>sales_report_issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>IT</dependent_value>
+            <element>category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Software Install</label>
+            <language>en</language>
+            <name>x_2262012_it_sup_0_it_support_ticket</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-17 04:56:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-17 04:56:52</sys_updated_on>
+            <value>software_install</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

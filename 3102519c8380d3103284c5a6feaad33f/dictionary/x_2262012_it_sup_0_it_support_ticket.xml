@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" audit="true" db_object_id="d30f4adc8348d3103284c5a6feaad329" extends="task" label="IT Support Ticket" max_length="40" name="x_2262012_it_sup_0_it_support_ticket" type="collection">
+        <element choice="1" label="Department" max_length="40" name="department" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Sales" value="sales"/>
+                <element inactive_on_update="false" label="IT" value="it"/>
+                <element inactive_on_update="false" label="Finance" value="finance"/>
+                <element inactive_on_update="false" label="HR" value="hr"/>
+            </choice>
+        </element>
+        <element choice="1" dependent="department" dependent_on_field="department" label="Category" mandatory="true" max_length="40" name="category" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="IT" inactive_on_update="false" label="Laptop Issue" value="laptop_issue"/>
+                <element dependent_value="Finance" inactive_on_update="false" label="Payment Delay" value="Payment Delay"/>
+                <element dependent_value="IT" inactive_on_update="false" label="Network Issue" value="network_issue"/>
+                <element dependent_value="Finance" inactive_on_update="false" label="Invoice Issue" value="invoice_issue"/>
+                <element dependent_value="Sales" inactive_on_update="false" label="Sales Report Issue" value="sales_report_issue"/>
+                <element dependent_value="Sales" inactive_on_update="false" label="CRM Issue" value="crm_issue"/>
+                <element dependent_value="Sales" inactive_on_update="false" label="Customer Data Access" value="customer_data_access"/>
+                <element dependent_value="IT" inactive_on_update="false" label="Software Install" value="software_install"/>
+                <element dependent_value="HR" inactive_on_update="false" label="Leave Access" value="leave_access"/>
+                <element dependent_value="HR" inactive_on_update="false" label="Payroll Issue" value="payroll_issue"/>
+            </choice>
+        </element>
+        <element label="Requested By" max_length="32" name="requested_by" reference="sys_user" type="reference"/>
+        <element label="Resolution Notes" max_length="4000" name="resolution_notes" type="journal_input"/>
+    </element>
+</database>

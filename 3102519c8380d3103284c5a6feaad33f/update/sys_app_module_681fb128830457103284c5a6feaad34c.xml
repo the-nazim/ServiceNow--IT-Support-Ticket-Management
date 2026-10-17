@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="IT Ticket Management">4c1f3da0834457103284c5a6feaad335</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>My Tickets</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>task</name>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>now/platform/list/task/default-view/params/module/681fb128830457103284c5a6feaad34c</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_2262012_it_sup_0.employee</roles>
+        <route display_value="List">a99d9a43fffcf2102fdcffffffffff31</route>
+        <screen display_value="List">b6254dcaff85b2502fdcffffffffff90</screen>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-17 08:41:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>681fb128830457103284c5a6feaad34c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My Tickets</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IT Support Ticket" source="x_2262012_it_sup_0">3102519c8380d3103284c5a6feaad33f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Support Ticket">3102519c8380d3103284c5a6feaad33f</sys_scope>
+        <sys_update_name>sys_app_module_681fb128830457103284c5a6feaad34c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-17 09:00:46</sys_updated_on>
+        <timeline_page/>
+        <title>My Tickets</title>
+        <uncancelable>false</uncancelable>
+        <ux_list/>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

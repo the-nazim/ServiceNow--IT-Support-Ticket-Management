@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-16 10:33:29</sys_created_on>
+        <sys_id>eb99d91c83c0d3103284c5a6feaad3eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2262012_it_sup_0_it_support_ticket.x_2262012_it_sup_0.it_support_ticket_user</sys_name>
+        <sys_package display_value="IT Support Ticket" source="x_2262012_it_sup_0">3102519c8380d3103284c5a6feaad33f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Support Ticket">3102519c8380d3103284c5a6feaad33f</sys_scope>
+        <sys_security_acl display_value="x_2262012_it_sup_0_it_support_ticket">6f99d91c83c0d3103284c5a6feaad3c6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_eb99d91c83c0d3103284c5a6feaad3eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-16 10:33:29</sys_updated_on>
+        <sys_user_role display_value="x_2262012_it_sup_0.it_support_ticket_user" name="x_2262012_it_sup_0.it_support_ticket_user">8799d91c83c0d3103284c5a6feaad367</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Support Ticket">3102519c8380d3103284c5a6feaad33f</application>
+        <file_path/>
+        <instance_id>1a9d8637ebf70b5c3a48f459bad0cdcf</instance_id>
+        <instance_name>dev455348</instance_name>
+        <merge_base/>
+        <name>sys_security_acl_role_eb99d91c83c0d3103284c5a6feaad3eb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-16 10:33:29</sys_created_on><sys_id>eb99d91c83c0d3103284c5a6feaad3eb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_2262012_it_sup_0_it_support_ticket.x_2262012_it_sup_0.it_support_ticket_user</sys_name><sys_package display_value="IT Support Ticket" source="x_2262012_it_sup_0">3102519c8380d3103284c5a6feaad33f</sys_package><sys_policy/><sys_scope display_value="IT Support Ticket">3102519c8380d3103284c5a6feaad33f</sys_scope><sys_security_acl display_value="x_2262012_it_sup_0_it_support_ticket">6f99d91c83c0d3103284c5a6feaad3c6</sys_security_acl><sys_update_name>sys_security_acl_role_eb99d91c83c0d3103284c5a6feaad3eb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-16 10:33:29</sys_updated_on><sys_user_role display_value="x_2262012_it_sup_0.it_support_ticket_user" name="x_2262012_it_sup_0.it_support_ticket_user">8799d91c83c0d3103284c5a6feaad367</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1628394578</payload_hash>
+        <record_name>x_2262012_it_sup_0_it_support_ticket.x_2262012_it_sup_0.it_support_ticket_user</record_name>
+        <reverted_from/>
+        <source>a70595588380d3103284c5a6feaad3c6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-16 10:33:30</sys_created_on>
+        <sys_id>c4a9d91c83c0d3103284c5a6feaad3f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1444628500000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-16 10:33:30</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>44a9d91cd0c0d3100ed2df95a78c89f7</update_guid>
+        <update_guid_history>44a9d91cd0c0d3100ed2df95a78c89f7:-1628394578</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_2262012_it_sup_0_it_support_ticket.x_2262012_it_sup_0.it_support_ticket_user">68de8e9c8348d3103284c5a6feaad333</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-16 14:25:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>415360dd255e4b8392e7d8670a0658b1</sys_id>
+        <sys_metadata>eb99d91c83c0d3103284c5a6feaad3eb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2262012_it_sup_0_it_support_ticket.x_2262012_it_sup_0.it_support_ticket_user</sys_name>
+        <sys_package display_value="IT Support Ticket" source="x_2262012_it_sup_0">3102519c8380d3103284c5a6feaad33f</sys_package>
+        <sys_parent display_value="">6f99d91c83c0d3103284c5a6feaad3c6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IT Support Ticket">3102519c8380d3103284c5a6feaad33f</sys_scope>
+        <sys_scope_delete display_value="">ad9e78c078084afab77d0762eefe8764</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_eb99d91c83c0d3103284c5a6feaad3eb</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_eb99d91c83c0d3103284c5a6feaad3eb">c4a9d91c83c0d3103284c5a6feaad3f8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-16 14:25:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="IT Support Ticket">9b99d91c83c0d3103284c5a6feaad384</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>IT Support Tickets</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_2262012_it_sup_0_it_support_ticket</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_2262012_it_sup_0.it_support_ticket_user</roles>
+        <route/>
+        <screen/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-16 10:33:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e399d91c83c0d3103284c5a6feaad3be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Support Tickets</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IT Support Ticket" source="x_2262012_it_sup_0">3102519c8380d3103284c5a6feaad33f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Support Ticket">3102519c8380d3103284c5a6feaad33f</sys_scope>
+        <sys_update_name>sys_app_module_e399d91c83c0d3103284c5a6feaad3be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-16 10:33:28</sys_updated_on>
+        <timeline_page/>
+        <title>IT Support Tickets</title>
+        <uncancelable>false</uncancelable>
+        <ux_list/>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Support Ticket">3102519c8380d3103284c5a6feaad33f</application>
+        <file_path/>
+        <instance_id>1a9d8637ebf70b5c3a48f459bad0cdcf</instance_id>
+        <instance_name>dev455348</instance_name>
+        <merge_base/>
+        <name>sys_app_module_e399d91c83c0d3103284c5a6feaad3be</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="IT Support Ticket">9b99d91c83c0d3103284c5a6feaad384</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>IT Support Tickets</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_2262012_it_sup_0_it_support_ticket</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles>x_2262012_it_sup_0.it_support_ticket_user</roles><route/><screen/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-16 10:33:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e399d91c83c0d3103284c5a6feaad3be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>IT Support Tickets</sys_name><sys_overrides/><sys_package display_value="IT Support Ticket" source="x_2262012_it_sup_0">3102519c8380d3103284c5a6feaad33f</sys_package><sys_policy/><sys_scope display_value="IT Support Ticket">3102519c8380d3103284c5a6feaad33f</sys_scope><sys_update_name>sys_app_module_e399d91c83c0d3103284c5a6feaad3be</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-16 10:33:28</sys_updated_on><timeline_page/><title>IT Support Tickets</title><uncancelable>false</uncancelable><ux_list/><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1343573245</payload_hash>
+        <record_name>IT Support Tickets</record_name>
+        <reverted_from/>
+        <source>a70595588380d3103284c5a6feaad3c6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-16 10:33:28</sys_created_on>
+        <sys_id>2799d91c83c0d3103284c5a6feaad3c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a14446203b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-16 10:33:28</sys_updated_on>
+        <type>Module</type>
+        <update_guid>a399d91c69c0d310c67e229fdfd56bc4</update_guid>
+        <update_guid_history>a399d91c69c0d310c67e229fdfd56bc4:1343573245</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="IT Support Tickets">f0de8e9c8348d3103284c5a6feaad3bd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-16 14:25:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>3ddda15dae664ab696ea742a83e2a059</sys_id>
+        <sys_metadata>e399d91c83c0d3103284c5a6feaad3be</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IT Support Tickets</sys_name>
+        <sys_package display_value="IT Support Ticket" source="x_2262012_it_sup_0">3102519c8380d3103284c5a6feaad33f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="IT Support Ticket">3102519c8380d3103284c5a6feaad33f</sys_scope>
+        <sys_scope_delete display_value="">ad9e78c078084afab77d0762eefe8764</sys_scope_delete>
+        <sys_update_name>sys_app_module_e399d91c83c0d3103284c5a6feaad3be</sys_update_name>
+        <sys_update_version display_value="sys_app_module_e399d91c83c0d3103284c5a6feaad3be">2799d91c83c0d3103284c5a6feaad3c5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-16 14:25:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
