@@ -4,18 +4,20 @@
         <application display_value="IT Ticket Management">4c1f3da0834457103284c5a6feaad335</application>
         <assessment/>
         <device_type/>
-        <filter/>
+        <filter table="x_2262012_it_sup_0_it_support_ticket">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
         <hint/>
         <homepage/>
         <image/>
-        <link_type>DIRECT</link_type>
+        <link_type>LIST</link_type>
         <map_page/>
         <mobile_title>Assigned To Me</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_2262012_it_sup_0_it_support_ticket</name>
         <order>500</order>
         <override_menu_roles>false</override_menu_roles>
-        <query>now/platform/list/x_2262012_it_sup_0_it_support_ticket/default-view/params/module/e81fb128830457103284c5a6feaad34c</query>
+        <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
         <roles>x_2262012_it_sup_0.it.admin,x_2262012_it_sup_0.it.support</roles>
@@ -27,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>e81fb128830457103284c5a6feaad34c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Assigned To Me</sys_name>
         <sys_overrides/>
         <sys_package display_value="IT Support Ticket" source="x_2262012_it_sup_0">3102519c8380d3103284c5a6feaad33f</sys_package>
@@ -35,7 +37,7 @@
         <sys_scope display_value="IT Support Ticket">3102519c8380d3103284c5a6feaad33f</sys_scope>
         <sys_update_name>sys_app_module_e81fb128830457103284c5a6feaad34c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-10-17 09:02:05</sys_updated_on>
+        <sys_updated_on>2026-10-17 09:37:13</sys_updated_on>
         <timeline_page/>
         <title>Assigned To Me</title>
         <uncancelable>false</uncancelable>

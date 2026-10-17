@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Test Table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Test Table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">07429df43d63031074a2476226988ec6</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-17 09:24:28</sys_created_on>
+        <sys_id>9e63122c83c457103284c5a6feaad3e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Table</sys_name>
+        <sys_package display_value="IT Support Ticket" source="x_2262012_it_sup_0">3102519c8380d3103284c5a6feaad33f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IT Support Ticket">3102519c8380d3103284c5a6feaad33f</sys_scope>
+        <sys_update_name>sys_wizard_answer_9e63122c83c457103284c5a6feaad3e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-17 09:24:28</sys_updated_on>
+        <table/>
+        <target_url>x_2262012_it_sup_0_test_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="IT Support Ticket">3102519c8380d3103284c5a6feaad33f</application>
+        <file_path/>
+        <instance_id>1a9d8637ebf70b5c3a48f459bad0cdcf</instance_id>
+        <instance_name>dev455348</instance_name>
+        <merge_base/>
+        <name>sys_wizard_answer_9e63122c83c457103284c5a6feaad3e5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Test Table</answer><button_label/><dependent_value/><element/><name>Test Table</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">07429df43d63031074a2476226988ec6</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-17 09:24:28</sys_created_on><sys_id>9e63122c83c457103284c5a6feaad3e5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test Table</sys_name><sys_package display_value="IT Support Ticket" source="x_2262012_it_sup_0">3102519c8380d3103284c5a6feaad33f</sys_package><sys_policy/><sys_scope display_value="IT Support Ticket">3102519c8380d3103284c5a6feaad33f</sys_scope><sys_update_name>sys_wizard_answer_9e63122c83c457103284c5a6feaad3e5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-17 09:24:28</sys_updated_on><table/><target_url>x_2262012_it_sup_0_test_table.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>-1481591238</payload_hash>
+        <record_name>Test Table</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-17 09:25:31</sys_created_on>
+        <sys_id>35a3da2c83c457103284c5a6feaad360</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1492e46250000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-17 09:25:31</sys_updated_on>
+        <type>Answer</type>
+        <update_guid>f1a3da2c57c4571048cf9acfdd81e060</update_guid>
+        <update_guid_history>f1a3da2c57c4571048cf9acfdd81e060:-1481591238</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-17 09:25:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>522240c74805463c991ec5b70908ae10</sys_id>
+        <sys_metadata>9e63122c83c457103284c5a6feaad3e5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Table</sys_name>
+        <sys_package display_value="IT Support Ticket" source="x_2262012_it_sup_0">3102519c8380d3103284c5a6feaad33f</sys_package>
+        <sys_parent display_value="Task">07429df43d63031074a2476226988ec6</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="IT Support Ticket">3102519c8380d3103284c5a6feaad33f</sys_scope>
+        <sys_scope_delete display_value="">ad9e78c078084afab77d0762eefe8764</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_9e63122c83c457103284c5a6feaad3e5</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_9e63122c83c457103284c5a6feaad3e5">35a3da2c83c457103284c5a6feaad360</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-17 09:25:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
